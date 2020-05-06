@@ -1,4 +1,4 @@
-**Privacy Policy**
+## Privacy Policy
 
 SkateIV Developer built the LitePass app as a Free app. This SERVICE is provided by SkateIV Developer at no cost and is intended for use as is.
 
